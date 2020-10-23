@@ -27,3 +27,5 @@ _VS Code for the editor, GIT to back it up, nothing extra special..._
 ### License
 
 *GPL*
+
+_Co-authored by Daria Tessler_
